@@ -1,0 +1,12 @@
+menu:
+  Home: /
+  Archives: /archives
+rss: /atom.xml
+
+archive_date_format: MMM DD
+fancybox: true
+
+duoshuo_shortname: maiqingcheng
+
+google_analytics:
+favicon: /favicon.ico
